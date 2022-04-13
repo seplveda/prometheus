@@ -1,4 +1,4 @@
-# prometheus
+# prometheus (WIP)
 django + vite + react + typescript = 😍
 
 for dev:
